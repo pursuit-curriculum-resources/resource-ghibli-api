@@ -1,10 +1,10 @@
 # Studio Ghibli API
 
-## TODO UPDATE FOR USAGE AT PURSUIT
+[The live site for Pursuit use is:](https://resource-ghibli-api-pursuit.onrender.com/#)
 
-**December 1 2022 - Heroku is charging for apps now, so I'm archiving this. Feel free to fork and host another version**
+**December 1 2022 - Heroku is charging for apps now, so [I'm](https://github.com/janaipakos/ghibliapi) archiving this. Feel free to fork and host another version**
 
-The [Studio Ghibli API](https://resource-ghibli-api-pursuit.onrender.com) catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
+The Studio Ghibli API catalogs the people, places, and things found in the worlds of Ghibli. It was created to help users discover resources, consume them via HTTP requests, and interact with them in whatever way makes sense. Navigation can be found on the left sidebar, and the right sidebar shows examples of returned objects for successful calls.
 
 ## Endpoints
 
@@ -34,51 +34,6 @@ Calling this resource will respond with the following object:
   ...
 }
 ```
-
-## Helper libraries
-
-### Elixir
-
-- [ghibli](https://github.com/sotojuan/ghibli) by [Juan Soto](https://github.com/sotojuan)
-
-### Go
-
-- [totoro](https://github.com/Rchristiani/totoro) by [Ryan Christiani](https://github.com/Rchristiani)
-
-### GraphQL
-
-- [ghibliQL](https://github.com/kisscool-fr/ghibliql) by [Sebastien](https://github.com/kisscool-fr)
-
-### R
-
-- [ghibliapi](https://github.com/onertipaday/ghibliapi) by [Paolo](https://github.com/onertipaday)
-
-### Python2 and Python3
-
-- [python_studio_ghibli_api_sdk](https://github.com/Incognito/python_studio_ghibli_api_sdk) by [Incognito](https://github.com/Incognito)
-
-## Examples
-
-### Swift (iOS)
-
-- https://github.com/kxvn-lx/Ghibliii
-
-### Android
-
-- https://github.com/txemasv/ghibli-films
-
-### Haskell
-
-- https://github.com/janaipakos/ghibliapi-example
-
-### Datascript and Clojure
-
-- https://cjohansen.no/a-unified-specification/
-
-### JavaScript
-
-- https://github.com/mazipan/ghibli-fans
-- https://github.com/taniarascia/sandbox/tree/master/ghibli
 
 ## Resources
 
