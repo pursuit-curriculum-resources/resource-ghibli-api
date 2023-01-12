@@ -1,6 +1,6 @@
 # Studio Ghibli API
 
-[The live site for Pursuit use is:](https://resource-ghibli-api-pursuit.onrender.com/#)
+> **Note**: The Pursuit hosted API can be found [here](https://resource-ghibli-api.onrender.com)
 
 **December 1 2022 - Heroku is charging for apps now, so [I'm](https://github.com/janaipakos/ghibliapi) archiving this. Feel free to fork and host another version**
 
@@ -18,7 +18,7 @@ The Studio Ghibli API catalogs the people, places, and things found in the world
 
 Requests can be made with curl or other helper libraries by following regular REST calls. Examples are provided for Ruby and Python with a use case in Haskell. For example, here is how to GET the resource for the film My Neighbor Tororo:
 
-`curl https://resource-ghibli-api-pursuit.onrender.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
+`curl https://resource-ghibli-api.onrender.com/films/58611129-2dbc-4a81-a72f-77ddfc1b1b49`
 
 Calling this resource will respond with the following object:
 
